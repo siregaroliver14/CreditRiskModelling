@@ -1,0 +1,1 @@
+This file is a machine learning model that can predict whether prospective borrowers will be late in making payments or not. This model utilizes the Random Forest Classifier algorithm. The data used for this model consists of nearly 500 thousand records of borrower client data
